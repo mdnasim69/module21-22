@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312444405728",
+    "project_id": "pratice-ad61e",
+    "storage_bucket": "pratice-ad61e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312444405728:android:d2033b94ec4d2020bf0d85",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiDCQ-f7xbeK6uAmeG8rGb2H5CVTkIOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
