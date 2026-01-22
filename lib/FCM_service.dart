@@ -15,7 +15,7 @@ class FCM_service {
     print(message.sentTime);
     print(message.notification?.title);
     print(message.notification?.body);
-    //TODO : do somethin
+    //TODO : do something
   }
 }
 Future<void> BackgroundCloudMessage(RemoteMessage message) async{
