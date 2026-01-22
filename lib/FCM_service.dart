@@ -6,7 +6,7 @@ class FCM_service {
       sound: true,
       alert: true,
     );
-    FirebaseMessaging.onMessage.listen((RemoteMessage msg){});
+    FirebaseMessaging.onMessage.listen(cloudMessage);
     FirebaseMessaging.onMessageOpenedApp.listen(cloudMessage);
     FirebaseMessaging.onBackgroundMessage(BackgroundCloudMessage);
   }
